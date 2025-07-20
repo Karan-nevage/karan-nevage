@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=karan-nevage.karan-nevage&left_color=orange&right_color=orange&left_text=Visitors" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Satisfy&size=35&center=true&vCenter=true&width=500&color=F73B14&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Karankumar+Nevage!;" />
-</h1>
+<img align="right" src="https://readme-typing-svg.herokuapp.com/?font=Satisfy&size=35&center=true&vCenter=true&width=500&color=F73B14&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Karankumar+Nevage!;" />
+<br><br>
+<br><br>
 
 ## About Me
 

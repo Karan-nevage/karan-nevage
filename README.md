@@ -4,56 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Satisfy&size=35&center=true&vCenter=true&width=500&color=F73B14&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Karankumar+Nevage!;" />
 </h1>
 
-<h3 align="center">A tech enthusiast & Electronics and Computer Engineer from India</h3>
+## About Me
 
-<br/>
+Hey there! I’m a **B.Tech grad** from **JNEC, MGM University**, passionate about **RTL design** and **design verification**. With skills in **Verilog, SystemVerilog,** and **UVM**, I’m on a mission to **innovate in chip design**. Founder of **VLSI 360**, I love **sharing tech insights.** Let’s **connect and build the future!**
+## Programing Languages
 
-<div align="center">
- 
- 🔭 I’m currently working on **EEG Controlled Wheelchair**
- 
- 🌱 I’m currently learning **Verilog**
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp&perline=8)](https://skillicons.dev)
 
-💬 Ask me about **Circuit Design,Circuit Simulation,Layout and PCB Design,VHDL... or anything [here](https://www.linkedin.com/in/karankumar-nevage/)**
+## GitHub Stats
+Public Repositories: 32 | Followers: 3 | Following: 3
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan-nevage&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-nevage&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:karanpr9423@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/karankumar-nevage" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://karan-nevage.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+## Connect with Me
 
- <hr/>
- 
-<h2 align="center">⚒️ Tools-Languages-Frameworks ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,vscode" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,figma,androidstudio" />
-   <br>
-</div>
-
-<br/>
-
- <hr/>
- 
-<h2 align="center">⚒️ Tools-Languages-Frameworks ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,vscode" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,figma,androidstudio" />
-   <br>
-</div>
-
-<br/>
-<hr/>
-
+<a href="https://twitter.com/KarankumarNeva1" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://youtube.com/@FluxrayElectronics" target="_blank" rel="noopener noreferrer"><Icon /> Youtube</a> | <a href="https://instagram.com/ind_karanog/" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a>

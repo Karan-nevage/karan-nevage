@@ -27,7 +27,7 @@ A passionate and results-driven Design Verification professional with a strong f
 ---
 
 ## ✨ Featured Projects
-**✤ AXI Universal Verification Component (UVC)** [(View Repo)](https://github.com/Karan-nevage/APB-Protocol-UVM-Based-Verification)  <br>
+**✤ AXI Universal Verification Component (UVC)** [(View Repo)](https://github.com/Karan-nevage/AXI-UVC)  <br>
 **✤ APB Protocol UVM Based Verification** [(View Repo)](https://github.com/Karan-nevage/APB-Protocol-UVM-Based-Verification)  <br>
 **✤ Asynchronous FIFO Design and Verificationn** [(View Repo)](https://github.com/Karan-nevage/Asynchronous-FIFO-Design-and-Verification)  <br>
 **✤ Memory UVM Based Verification (Single Port RAM)** [(View Repo)](https://github.com/Karan-nevage/Memory-UVM-Verificationn) <br>
